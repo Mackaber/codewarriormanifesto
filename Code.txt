@@ -1,0 +1,52 @@
+Code Warrior Manifesto V. 0.1
+======================
+
+# This is something I wrote to get inspired for those nights of hacking,
+# I based it on how I felt when I went to several Hackathon events.
+# Feel free to modify it and make it your own.
+
+It's again 3:00am in the morning, just like yesterday
+and I'm just getting started.
+
+I feel the ideas flowing in my mind like a horde of warriors
+crushing without mercy all the problems I found.
+
+My hands against the keyboard feels like I'm wielding a sacred sword
+which I use to command all my code.
+
+The coffe by my side tastes like the blood of my adversaries.
+
+Sleep is for the weak, those who fight shall last
+and those who surrender shall fall.
+
+It may not help me get profit, It may not make the world a better place...
+But I won't rest until every problem gets solved.
+
+Keep breaking to figure out how it works, 
+keep changing the paradigm and always try something new.
+Keep that mind open, and keep those ideas flowing.
+
+From the little script to the full featured framework..
+Programming languages, IDEs, frameworks are just tools from the box.
+It doesn't matter which one I select, in every way I will master it.
+
+This is what I like, 
+This is what I do, 
+How I do it… 
+This is what I am, 
+this is what I chose to be, 
+because this… is me…
+
+So from now on, when I'm asked...
+
+"Programmer What is our profession?"
+
+I will respond...
+
+CODE!
+
+CODE!
+
+CODE!
+
+#Now, keep repeating it to yourself until you believe in it.
