@@ -1,0 +1,4 @@
+codewarriormanifesto
+====================
+
+Code Warrior Manifesto
